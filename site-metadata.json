@@ -34,7 +34,7 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "hello@kreaville.com",
+                "label": "Get in touch",
                 "url": "contact",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
