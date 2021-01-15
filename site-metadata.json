@@ -27,7 +27,8 @@
                 "style": "link"
             }
         ],
-        "logo_img": "/images/krvl-id.png"
+        "logo_img": "/images/krvl-id.png",
+        "logo_img_alt": "Kreaville"
     },
     "footer": {
         "type": "footer",
