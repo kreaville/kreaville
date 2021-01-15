@@ -37,7 +37,7 @@
                 "type": "action",
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/",
-                "style": "icon",
+                "style": "link",
                 "icon_class": "",
                 "new_window": true
             }
