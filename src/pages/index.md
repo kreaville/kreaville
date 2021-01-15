@@ -3,24 +3,17 @@ title: Home
 hide_title: true
 sections:
   - type: section_hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: 'Hi, We are Kreaville.'
     section_id: hero
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      We build and manage internet companies.
     actions:
       - type: action
         label: Let's talk
         url: /contact
         style: button
-  - type: section_portfolio
-    title: Recent Work
-    section_id: latest-projects
-    subtitle: An optional subtitle of the section
-    layout_style: mosaic
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
+        icon_class: arrow
+        no_follow: false
   - type: section_grid
     title: What We Do
     section_id: services
@@ -51,34 +44,14 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-  - type: section_testimonials
-    title: Testimonials
-    section_id: testimonials
+  - type: section_portfolio
+    title: Selected Works
+    section_id: latest-projects
     subtitle: An optional subtitle of the section
-    col_number: three
-    testimonials:
-      - type: testimonial
-        author: Sean Salazar
-        avatar: images/sean_salazar.jpg
-        avatar_alt: Sean Salazar's photo
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
-      - type: testimonial
-        author: Aubrey Hoover
-        avatar: images/aubrey_hoover.jpg
-        avatar_alt: Aubrey Hoover's photo
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - type: testimonial
-        author: Deegan Wallace
-        avatar: images/deegan_wallace.jpg
-        avatar_alt: Deegan Wallace's photo
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
+    layout_style: mosaic
+    projects_number: 4
+    view_all_label: View All
+    view_all_url: portfolio
   - type: section_posts
     title: Latest from the Blog
     section_id: latest-posts

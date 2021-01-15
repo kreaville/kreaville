@@ -1,11 +1,11 @@
 {
-    "title": "Stackbit Exto Theme",
-    "description": "A portfolio theme with a blog",
+    "title": "Kreaville",
+    "description": "Curacao based internet company",
     "color_scheme": "light",
-    "accent_color": "pink",
+    "accent_color": "blue",
     "header": {
         "type": "header",
-        "title": "Exto",
+        "title": "KREAVILLE",
         "has_nav": true,
         "nav_links": [
             {
@@ -30,7 +30,7 @@
                 "type": "action",
                 "label": "Style Guide",
                 "url": "/style-guide/",
-                "style": "link"
+                "style": "button"
             },
             {
                 "type": "action",
