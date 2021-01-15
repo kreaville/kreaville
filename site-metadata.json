@@ -30,7 +30,7 @@
                 "type": "action",
                 "label": "Style Guide",
                 "url": "/style-guide/",
-                "style": "link"
+                "style": "button"
             },
             {
                 "type": "action",
