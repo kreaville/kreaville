@@ -32,7 +32,17 @@
         "type": "footer",
         "content": "&copy; Kreaville. All rights reserved.",
         "has_social": true,
-        "social_links": [],
+        "social_links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "icon_class": "lorem-ipsum",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ],
         "links": []
     }
 }
