@@ -31,7 +31,7 @@
     "footer": {
         "type": "footer",
         "content": "&copy; Kreaville. All rights reserved.",
-        "has_social": true,
+        "has_social": false,
         "social_links": [],
         "links": []
     }
