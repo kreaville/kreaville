@@ -41,15 +41,6 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
-            },
-            {
-                "label": "+5999 522 3360",
-                "url": "tel:+59995223360",
-                "style": "link",
-                "icon_class": "lorem-ipsum",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "links": []
