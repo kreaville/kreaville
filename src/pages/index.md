@@ -12,6 +12,7 @@ sections:
         label: Let's talk
         url: /contact
         style: icon
+        icon_class: arrow
   - type: section_grid
     title: What We Do
     section_id: services
