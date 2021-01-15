@@ -58,7 +58,7 @@
                 "new_window": true
             },
             {
-                "label": "",
+                "label": "Github",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "icon_class": "fa-github",
