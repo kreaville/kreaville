@@ -28,12 +28,6 @@
             },
             {
                 "type": "action",
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "button"
-            },
-            {
-                "type": "action",
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
