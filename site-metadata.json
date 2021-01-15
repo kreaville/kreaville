@@ -32,16 +32,7 @@
         "type": "footer",
         "content": "&copy; Kreaville. All rights reserved.",
         "has_social": true,
-        "social_links": [
-            {
-                "type": "action",
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "link",
-                "icon_class": "",
-                "new_window": true
-            }
-        ],
+        "social_links": [],
         "links": []
     }
 }
