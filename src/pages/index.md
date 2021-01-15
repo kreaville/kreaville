@@ -11,7 +11,7 @@ sections:
       - type: action
         label: Let's talk
         url: /contact
-        style: icon
+        style: link
         icon_class: arrow
   - type: section_grid
     title: What We Do
