@@ -14,6 +14,13 @@ sections:
         style: button
         icon_class: arrow
         no_follow: false
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        no_follow: false
+        type: action
   - type: section_grid
     title: What We Do
     section_id: services
