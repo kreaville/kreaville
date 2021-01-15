@@ -44,7 +44,7 @@
             },
             {
                 "label": "+5999 522 3360",
-                "url": "callto:+59995223360",
+                "url": "/callto:+59995223360",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
