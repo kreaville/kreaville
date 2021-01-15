@@ -43,7 +43,7 @@
                 "type": "action"
             },
             {
-                "label": "+5999 522-3360",
+                "label": "+5999 522 3360",
                 "url": "call:+59995223360",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
