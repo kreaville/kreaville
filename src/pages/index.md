@@ -13,14 +13,6 @@ sections:
         label: Let's talk
         url: /contact
         style: button
-  - type: section_portfolio
-    title: Recent Work
-    section_id: latest-projects
-    subtitle: An optional subtitle of the section
-    layout_style: tiles
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
   - type: section_grid
     title: What We Do
     section_id: services
@@ -51,6 +43,14 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+  - type: section_portfolio
+    title: Recent Work
+    section_id: latest-projects
+    subtitle: An optional subtitle of the section
+    layout_style: tiles
+    projects_number: 6
+    view_all_label: View All
+    view_all_url: portfolio
   - type: section_testimonials
     title: Testimonials
     section_id: testimonials
