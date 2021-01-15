@@ -16,24 +16,6 @@
             },
             {
                 "type": "action",
-                "label": "Portfolio",
-                "url": "/portfolio/",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "Blog",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "button"
-            },
-            {
-                "type": "action",
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
@@ -48,7 +30,7 @@
     },
     "footer": {
         "type": "footer",
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "&copy; Kreaville. All rights reserved.",
         "has_social": true,
         "social_links": [
             {
@@ -83,6 +65,7 @@
                 "icon_class": "fa-linkedin",
                 "new_window": true
             }
-        ]
+        ],
+        "links": []
     }
 }
