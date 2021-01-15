@@ -34,8 +34,8 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Email",
-                "url": "",
+                "label": "hello@kreaville.com",
+                "url": "contact",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
@@ -43,8 +43,8 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
-                "url": "lorem-ipsum",
+                "label": "+5999 522 3360",
+                "url": "/callto:+59995223360",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
