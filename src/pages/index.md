@@ -3,7 +3,7 @@ title: Home
 hide_title: true
 sections:
   - type: section_hero
-    title: 'Hi, We are Kreaville.'
+    title: 'Hi, we are Kreaville.'
     section_id: hero
     content: |
       We build and manage internet companies.
