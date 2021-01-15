@@ -6,7 +6,7 @@ sections:
     title: 'Hi, We are Kreaville.'
     section_id: hero
     content: |
-      We build online businesses.
+      We build and manage internet companies.
     actions:
       - type: action
         label: Let's talk
