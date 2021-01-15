@@ -61,7 +61,7 @@
                 "label": "Github",
                 "url": "lorem-ipsum",
                 "style": "link",
-                "icon_class": "fab-github",
+                "icon_class": "fa-github",
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
