@@ -13,7 +13,7 @@ sections:
         url: /contact
         style: button
         icon_class: arrow
-        no_follow: true
+        no_follow: false
   - type: section_grid
     title: What We Do
     section_id: services
