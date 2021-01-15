@@ -34,7 +34,7 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Email",
+                "label": "Get in touch",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
