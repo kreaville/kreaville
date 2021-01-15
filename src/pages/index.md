@@ -77,7 +77,7 @@ sections:
       - Lorem ipsum
 
       - dolor sit amet
-    form_id: ''
+    form_id: '1'
     form_action: lorem-ipsum
     form_fields: []
     submit_label: lorem-ipsum
