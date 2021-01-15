@@ -35,14 +35,6 @@
         "social_links": [
             {
                 "type": "action",
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon_class": "fa-instagram",
-                "new_window": true
-            },
-            {
-                "type": "action",
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/",
                 "style": "icon",
