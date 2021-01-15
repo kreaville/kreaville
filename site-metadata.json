@@ -45,7 +45,7 @@
                 "type": "action",
                 "label": "Instagram",
                 "url": "https://www.instagram.com/",
-                "style": "link",
+                "style": "button",
                 "icon_class": "fa-instagram",
                 "new_window": true
             },
