@@ -26,7 +26,8 @@
                 "url": "/contact/",
                 "style": "link"
             }
-        ]
+        ],
+        "logo_img": "/images/krvl-id.png"
     },
     "footer": {
         "type": "footer",
